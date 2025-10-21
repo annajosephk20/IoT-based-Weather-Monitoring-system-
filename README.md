@@ -1,7 +1,3 @@
-Perfect ✅ Here’s the updated **README.md** — complete with a **schematic image section placeholder** that will look great on GitHub once you upload your circuit diagram image.
-
----
-
 # 🌦️ IoT-Based Weather Monitoring System Using NodeMCU and ThingSpeak
 
 This project monitors real-time **temperature**, **humidity**, and **atmospheric pressure** using **DHT11** and **BMP180** sensors connected to a **NodeMCU (ESP8266)**. The data is sent to the **ThingSpeak cloud platform** via Wi-Fi, where it is visualized through live graphs and dashboards.
@@ -42,10 +38,6 @@ This project monitors real-time **temperature**, **humidity**, and **atmospheric
 ## 🖼️ Circuit Diagram
 ![weather circuit diagram](https://github.com/user-attachments/assets/8bb29114-87c9-43ca-b2a8-8d8b213b2c69)
 
-
-> 💡 *Tip:* Make sure the file path matches the image location in your repository.
-
----
 
 ## 🧩 Required Libraries
 
