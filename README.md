@@ -102,8 +102,3 @@ Data sent successfully!
 | Field 3 | Temperature (°C) | BMP180 |
 | Field 4 | Pressure (hPa)   | BMP180 |
 
----
-
-
-
-Would you like me to include a short **“Project Overview” section** at the top with a one-line summary and badges (e.g., "Platform: Arduino | Cloud: ThingSpeak") for a more professional GitHub appearance?
